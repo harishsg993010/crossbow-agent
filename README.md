@@ -2,6 +2,15 @@
 
 World's first fully autonomous AI security engineer that finds and exploits vulnerabilities, performs SOC operations, forensics, and threat intelligence.
 
+# Crossbow in Action
+
+<textarea style="display:none"><![CDATA[
+[![asciicast](https://asciinema.org/a/754753.svg)](https://asciinema.org/a/754753)
+]]></textarea>
+
+[![asciicast](https://asciinema.org/a/754753.svg)](https://asciinema.org/a/754753)
+
+
 ## Installation
 
 ```bash
