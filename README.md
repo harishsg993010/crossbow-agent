@@ -4,7 +4,6 @@ World's first fully autonomous AI security engineer that finds and exploits vuln
 
 # Crossbow in Action
 
-<textarea style="display:none"><![CDATA[
 [![asciicast](https://asciinema.org/a/754753.svg)](https://asciinema.org/a/754753)
 ]]></textarea>
 
