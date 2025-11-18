@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+include .env.example
+recursive-include src *.py
+global-exclude __pycache__
+global-exclude *.py[co]
